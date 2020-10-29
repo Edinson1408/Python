@@ -1,0 +1,35 @@
+big o 
+rendimiento y optimizacion
+o es orden
+n representa un numero o tamaño de un conunto
+o(1)
+o(n) -quiere decir que depende de la cantidad de dartos que le envies recorrer el conjunto que pides
+o(n2) algoritmo de complidad cuadrada ,esto quiere decir que tu tines un for dentro de otro for
+o un bucle dentro de otro bucle
+tambien hay en cubica  ala cuarta .....
+
+si tienes dos for , no uno dentro del otro
+primer for
+segungo for idependientes 
+esto quiero decir que es 0(2n)
+
+cuando es logn tarda menos
+
+algoritmo multi parte (esto va de la mano con el big o )
+dicese que recorres un array a y luego un array b entonces sera un 0(a+b) no un n*n por que no se recorre el mismo
+y si se recorre un arreglo a y dentro de el un arreglo b entonces deberiamos decir o(a*b) no un n2 (n cuadrado)
+
+log n - Busqueda binaria
+tengo estos datos 
+1 5 6 9 11 13 16 18 21 -> conjunto de datos
+en lo cual yo quiero buscar el numero 9
+bividimos nuestro conjunto para tener el numero central 
+y evaluo , si 9 es menor que el numero centraol 11 entonces mi numero se encontrara en
+parte izquierda de mi conjunto de datos 
+1 5 6 9 
+en la busqueda ya  no sera de de todo el coonjunto del 0 al 12
+si no que sera es un conjunto reducido recortamos a la mitad la busqueda
+y asi susecivamente podemos ir dibidiendo el conjjunto de busqueda
+
+
+coclucion la busqueda se realizara en un conjunto menor(conjunto/2)
