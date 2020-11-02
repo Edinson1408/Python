@@ -1,0 +1,15 @@
+para ponder practicar https://pywombat.com/
+#las calse abstracto permite crear problemas poderosos qye modelan al mundo
+#podemo medir la eficiencia de diversos algoritmos big O
+#graficas para reconocer patrones
+#optimizacion = nos permite resolver de manera eficiente y no tan eficiente
+
+#decomposicion = romper de problemas mas chicos a mas chicos / partes por partes
+abtraccion = que cosas importan que se definan, variables que son privadas o publicas, 
+#reconocimiento de patrones = saber como utulizar el recursivo , patrones , enconrar el valor mas alto(optimizacion)
+
+#diseño de algoritmos =
+
+https://www.codewars.com/?language=python
+https://app.codesignal.com/login
+https://www.codingame.com/start
